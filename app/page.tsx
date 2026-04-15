@@ -137,7 +137,7 @@ export default function HomePage() {
               <span className="agent-initial">J</span>
             </div>
             <div className="agent-info">
-              <h3 className="agent-name">James Fowler</h3>
+              <h3 className="agent-name">Jabed Khan</h3>
               <p className="agent-title">Buyer Specialist · Luxury Division</p>
               <p className="agent-bio">
                 With 8 years navigating Toronto&rsquo;s competitive market,
@@ -160,12 +160,12 @@ export default function HomePage() {
               <span className="agent-initial">F</span>
             </div>
             <div className="agent-info">
-              <h3 className="agent-name">Karen Johansson</h3>
+              <h3 className="agent-name">Amy Farzana Islam</h3>
               <p className="agent-title">
                 Listing Specialist · Investor Relations
               </p>
               <p className="agent-bio">
-                Karen&rsquo;s background in marketing and data-driven pricing
+                Amy&rsquo;s background in marketing and data-driven pricing
                 consistently gets sellers top dollar with minimal days on
                 market. Her investor network is unmatched in the GTA.
               </p>
@@ -250,7 +250,7 @@ export default function HomePage() {
         <div className="testimonial-inner">
           <p className="testimonial-quote">
             &ldquo;TeamJFK sold our house in 4 days for $130K over asking.
-            Karen&rsquo;s pricing strategy and James&rsquo;s buyer network made
+            Amy&rsquo;s pricing strategy and James&rsquo;s buyer network made
             it look effortless.&rdquo;
           </p>
           <p className="testimonial-author">— The Okafor Family, North York</p>
@@ -295,7 +295,7 @@ export default function HomePage() {
           © {new Date().getFullYear()} TeamJFK Real Estate. All rights reserved.
         </p>
         <p className="footer-fine">
-          Jabed Khan & TBH are registered real estate
+          Jabed Khan & Amy Farzana Islam are registered real estate
           professionals under RE/MAX Realtron Realty Inc., Brokerage.
         </p>
       </footer>
