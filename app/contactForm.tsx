@@ -14,7 +14,7 @@ export default function ContactForm() {
   if (submitted) {
     return (
       <div className="contact-success">
-        <p className="success-icon">✓</p>
+        <span className="success-icon">✓</span>
         <p className="success-msg">Thanks! We&rsquo;ll be in touch shortly.</p>
       </div>
     );
